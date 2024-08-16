@@ -81,11 +81,6 @@ if __name__ == "__main__":
             codePath = "C:\\Users\\Rehan Malik\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk"
             os.startfile(codePath)
 
-        elif 'open WhatsApp' in query:
-            codePath = "C:\\Users\\Rehan Malik\\Desktop\\WhatsApp.lnk"
-            webbrowser.open("WhatsApp.com")
-            #os.startfile(codePath)
-
         elif 'quit' in query:
             speak("Goodbye master, have a nice day")
             exit()
