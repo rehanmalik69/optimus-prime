@@ -1,4 +1,4 @@
-readme_content = """
+
 # Optimus Prime - Your Personal Voice Assistant
 
 ## Project Overview
